@@ -5,6 +5,7 @@ Training done using THE MNIST DATABASE of handwritten digits (http://yann.lecun.
 
 Written in Octave/MatLab for simplicity handling matrices.
 Needs a [n x m] input matrix where n is the feature vector for m examples.
+MLP.m is the main file.
 
 Model validation techniques are not handled by the scripts
 # To do:
