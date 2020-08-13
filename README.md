@@ -1,7 +1,13 @@
-# Supervised-ML
-Supervised machine learning algorithms from scratch
+# Multilayer perceptron from scratch
 
-I built them to understand and consult how the algorithm works
+I built it to understand and consult how the algorithm works.
 Training done using THE MNIST DATABASE of handwritten digits (http://yann.lecun.com/exdb/mnist/)
 
-- added Multilayer perceptron in Octave (simplicity)
+Written in Octave/MatLab for simplicity handling matrices.
+Needs a [n x m] input matrix where n is the feature vector for m examples.
+
+Model validation techniques are not handled by the scripts
+# To do:
+- receive the number of hidden layers from input without explicitly adding a variable for the new weight matrix
+- Build a confusion matrix
+
