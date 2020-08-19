@@ -1,6 +1,6 @@
 # Multilayer perceptron from scratch
 
-I built it to understand and consult how the algorithm works.
+I built it to understand and consult how the algorithm works. In practice I will not use this.
 Training done using THE MNIST DATABASE of handwritten digits (http://yann.lecun.com/exdb/mnist/)
 
 Written in Octave/MatLab for simplicity handling matrices.
